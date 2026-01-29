@@ -10,6 +10,9 @@
 
 *DURATION*: 4 WEEKS
 
+*MENTOR*: NEELA SANTOSH
+
+
 Description
 
 This project focuses on implementing a machine learning model using Python to classify messages as Spam or Not Spam. The model is built using the Scikit-learn library and applies Natural Language Processing (NLP) techniques to process and analyze text data. A publicly available SMS dataset is used to train and evaluate the model.
